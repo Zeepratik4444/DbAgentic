@@ -1,0 +1,30 @@
+Reaseach_Analysis:
+    name: 
+      Market Research and Analysis
+    description: 
+      Conduct thorough research on the SME market to identify key pain points related to manual processes and irrelevant administrative tasks. Analyze the competitive landscape to understand existing solutions and identify opportunities for NeuroNode.
+    expected_output: 
+      A comprehensive report detailing SME pain points, market trends, and competitive analysis.
+    agent: 
+      Marketing Specialist
+
+
+Marketing_Mail:
+  name: 
+    Develop Marketing Messages
+  description: 
+    Based on the market research, develop compelling marketing messages that highlight how NeuroNode's automation solutions address the identified pain points for SMEs. Emphasize cost savings, efficiency, and strategic advantages.
+  expected_output: 
+    A set of tailored marketing messages and value propositions for different SME segments.
+  agent: 
+    Marketing Specialist
+
+Offering_task:
+  name: 
+    Create Offer Proposals
+  description: 
+    Craft persuasive offer proposals for prospective SME customers. Tailor the proposals to their specific needs and demonstrate how NeuroNode's solutions provide a clear return on investment.
+  expected_output: 
+    Customized offer proposals for potential clients.
+  agent: 
+    Marketing Specialist
